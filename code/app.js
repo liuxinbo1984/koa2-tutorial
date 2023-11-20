@@ -5,7 +5,7 @@ const app = new Koa()
 
  // 添加路由
  router.get('/', async (ctx, next) => {
-    ctx.response.body = `<h1>index page</h1>`
+    ctx.body = `<h1>index page</h1>`
 })
 
 router.get('/home', async (ctx, next) => {

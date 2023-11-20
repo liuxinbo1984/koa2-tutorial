@@ -17,7 +17,7 @@
   },
   "homepage": "https://github.com/BruceCham/koa2-tutorial#readme",
   "dependencies": {
-    "koa": "^2.3.0",
-    "koa-router": "^7.2.1"
+    "koa": "^2.14.2",
+    "koa-router": "^12.0.1"
   }
 }
